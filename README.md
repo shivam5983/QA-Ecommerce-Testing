@@ -1,8 +1,4 @@
-🧪 QA Automation Testing Project – Login Functionality
-📌 Overview
-
-This project demonstrates automated testing of a web application's login functionality using Selenium WebDriver with Java. It showcases practical knowledge of software testing concepts including test execution, validation, and result verification.
-
+🧪 QA Automation Testing Project
 🎯 Objective
 
 To validate the login functionality of a web application by:
@@ -24,6 +20,7 @@ Driver Management: WebDriverManager
 🧪 Test Scenario
 
 Feature: Login Functionality
+
 Test Case: Valid Login
 
 🔄 Test Steps
@@ -83,10 +80,10 @@ Includes test documentation (test cases & bug reports)
 
 🚀 Future Improvements
 
-Add negative test cases (invalid login)
+Add negative test cases
 
-Implement TestNG for better reporting
+Integrate TestNG
 
-Integrate with CI/CD tools (Jenkins)
+Add reporting (Extent Reports)
 
-Generate detailed test reports
+CI/CD integration (Jenkins)
